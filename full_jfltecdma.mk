@@ -35,3 +35,7 @@ PRODUCT_DEVICE := jfltecdma
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_MODEL := jfltecdma
+
+# Stlport
+PRODUCT_PACKAGES += \
+    libstlport
