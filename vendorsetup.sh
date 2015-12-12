@@ -1,0 +1,3 @@
+add_lunch_combo aosp_jfltecdma-eng
+add_lunch_combo aosp_jfltecdma-user
+add_lunch_combo aosp_jfltecdma-userdebug
