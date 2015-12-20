@@ -39,3 +39,7 @@ PRODUCT_MODEL := jfltecdma
 # Stlport
 PRODUCT_PACKAGES += \
     libstlport
+
+# Qualcomm
+PRODUCT_PACKAGES += \
+    libcnefeatureconfig
